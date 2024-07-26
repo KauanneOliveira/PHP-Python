@@ -1,5 +1,5 @@
-<h1 align="center">PHP (Hypertext Preprocessor)</h1>
-Repositório criado para armazenar os códigos feitos em PHP durante a disciplina de Aplicações para Web 2.
+<h1 align="center">PHP (Hypertext Preprocessor) e Python</h1>
+Repositório criado para armazenar os códigos feitos em PHP e Python durante a disciplina de Aplicações para Web 2.
 
 ##  Autor
 
